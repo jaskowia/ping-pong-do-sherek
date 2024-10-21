@@ -1,3 +1,4 @@
+
 let xBolinha = 100;
 let yBolinha = 200;
 let diametro = 22;
@@ -105,4 +106,5 @@ function marcaPonto() {
     pontosDoOponente += 1;
   }
 }
+
 
